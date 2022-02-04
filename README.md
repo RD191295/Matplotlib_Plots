@@ -1,3 +1,4 @@
+<img src="https://github.com/RD191295/Matplotlib_Plots/blob/main/Plot_Image/My%20project.jpg">
 # 👀 What is Matplotlib?
 
 **Matplotlib** is a Python Library to visualise data. It will allow user to draw various graphs and show data in graphical forms.**Matplotlib** is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK. For more details about Library please [visit this link](https://matplotlib.org/)
