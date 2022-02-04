@@ -4,6 +4,13 @@
 
 ![GitHub](https://img.shields.io/github/license/RD191295/Matplotlib_Plots)
 
+# 📊 Various Plots 
+
+1. Scatter plot
+2. Bubble plot with Encircling
+3. Scatter plot with linear regression line of best fit
+4. 
+
 
 <div align="center"> Give us a 
     <img width="25" src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" alt="Slack"/>
