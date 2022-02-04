@@ -17,7 +17,7 @@ colors = [plt.cm.tab10(i/float(len(categories)-1)) for i in range(len(categories
 # DRAW SCATTER PLOT FOR DIFFERENT CATEGORIES
 fig = plt.figure(figsize=(16,10), dpi=80,facecolor='w', edgecolor='k')
 for i,category in enumerate(categories):
-    plt.scatter("area","poptotal",data = midwest.loc[midwest['category'] == category,:],s="dot_size",c=colors[i],edgecolors = "black",linewidths=0.5,label=str(category))
+    plt.scatter("area","poptotal",data = midwest.loc[midwest['category'] == category,:],s="dot_size",color=colors[i],edgecolors = "black",linewidths=0.5,label=str(category))
 
 # Step 3: Encircling
 # https://stackoverflow.com/questions/44575681/how-do-i-encircle-different-data-sets-in-scatter-plot

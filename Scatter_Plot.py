@@ -15,7 +15,7 @@ colors = [plt.cm.tab10(i/float(len(categories)-1)) for i in range(len(categories
 plt.figure(figsize=(16,10),dpi = 80, facecolor = 'w', edgecolor = 'k')
 
 for i,category in enumerate(categories):
-    plt.scatter('area','poptotal',data = df.loc[df.category == category,:],s = 20 , c = colors[i], label = category)
+    plt.scatter('area','poptotal',data = df.loc[df.category == category,:],s = 20 , color = colors[i], label = category)
 
 
 plt.xticks(fontsize = 12)
