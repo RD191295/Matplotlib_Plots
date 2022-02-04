@@ -31,3 +31,7 @@ You can contact me on my email id or other social media. check out my [Github pr
 
 # 📜 License
 
+All code in this repo is publiced as opensource. Anyone can use this code. This Github Repo aim is to educate more about Matplotlib to others
+
+
+
