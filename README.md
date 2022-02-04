@@ -9,7 +9,7 @@
 1. Scatter plot
 2. Bubble plot with Encircling
 3. Scatter plot with linear regression line of best fit
-4. 
+4. Jittering with stripplot
 
 
 <div align="center"> Give us a 
