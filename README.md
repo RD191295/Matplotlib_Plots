@@ -12,6 +12,10 @@
 2. Bubble plot with Encircling
 3. Scatter plot with linear regression line of best fit
 4. Jittering with stripplot
+5. Marginal Histrogram
+6. Marginal BoxPlots
+7. Correlogram 
+8. 
 
 
 <div align="center"> Give us a 
