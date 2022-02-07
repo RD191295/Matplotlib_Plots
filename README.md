@@ -15,7 +15,7 @@
 5. Marginal Histrogram
 6. Marginal BoxPlots
 7. Correlogram 
-8. 
+8. Pairwise Plot
 
 
 <div align="center"> Give us a 
